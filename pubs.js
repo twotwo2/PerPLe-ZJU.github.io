@@ -56,14 +56,14 @@ const PUBLICATIONS = [
     title:
       "InterTracker: Discovering and Tracking General Objects Interacting with Hands in the Wild",
     authors: "Yanyan Shao, Qi Ye, Wenhan Luo, Kaihao Zhang, Jiming Chen",
-    image: "",
+    image: "https://github.com/twotwo2/TIO/blob/main/detect_model_00.jpg",
     conference: "IROS 2023",
     links: {
-      "project page": "",
+      "project page": "https://twotwo2.github.io/twotwo2.github.io-TIO/",
       arxiv: "http://arxiv.org/abs/2308.03061",
       pdf: "http://arxiv.org/pdf/2308.03061",
       supp: "",
-      video: "https://youtu.be/cDTl51qLmLg",
+      video: "https://youtu.be/sZ_6KXDwxvo",
       code: "",
     },
     badges: [],
