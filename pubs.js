@@ -37,7 +37,7 @@ const PUBLICATIONS = [
   },
   {
     title:
-      "3D Grasp Synthesis via Hand-Object Contact Constraint. International Joint Conferences on Artificial Intelligence",
+      "3D Grasp Synthesis via Hand-Object Contact Constraint",
     authors:
       "Haoming Li, Xinzhuo Lin, Yang Zhou, Xiang Li, Yuchi Huo, Jiming Chen, Qi Ye",
     image: "",
@@ -50,7 +50,7 @@ const PUBLICATIONS = [
       video: "",
       code: "",
     },
-    badges: [],
+    badges: ["CCF A"],
   },
   {
     title:
@@ -103,7 +103,7 @@ const PUBLICATIONS = [
       code: "https://github.com/jingsenzhu/i2-sdf",
       data: "https://mega.nz/folder/jdhDnTqL#Ija678SU2Va_JJOiwqmdEg",
     },
-    badges: [],
+    badges: ["CCF A"],
   },
   {
     title: "Metadata-Based RAW Reconstruction via Implicit Neural Functions",
@@ -122,11 +122,11 @@ const PUBLICATIONS = [
       "colab demo":
         "https://colab.research.google.com/drive/1KFNFQgLcQ7HwIFn7fMFh4DiwZ0tb4hyv?usp=sharing",
     },
-    badges: [],
+    badges: ["CCF A"],
   },
   {
     title:
-      "Implementation and Optimization of Grasping Learning with Dual-modal Soft Gripper.",
+      "Implementation and Optimization of Grasping Learning with Dual-modal Soft Gripper",
     authors:
       "Lei Zhao ,Haoyue Liu ,Feihan Li ,Xingyu Ding ,Yuhao Sun ,Fuchun Sun , Jianhua Shan ,Qi Ye, Lincheng Li , Bin Fang",
     image: "",
